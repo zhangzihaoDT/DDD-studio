@@ -1,0 +1,19 @@
+id,value,color
+Design2019,,
+Design2019.data-visual,,
+Design2019.data-visual.Analysis,1,#808080
+Design2019.data-visual.Basic,1.5,#2E2575
+Design2019.data-visual.Messaging,2.5,#2E2575
+Design2019.data-visual.Basic+Interactive,4,#2E2575
+Design2019.data-visual.Expand,3.5,#E54F24
+Design2019.visual-story,,
+Design2019.visual-story.Narrative Visualisation,,
+Design2019.visual-story.inforgraphic,2.5,#0678BE
+Design2019.visual-story.Narrative Visualisation.scrollytelling,4,#0073AD
+Design2019.visual-story.Narrative Visualisation.stepper,4.5,#E58E00
+Design2019.data-story,,
+Design2019.data-story.Geospatial using maps,4,#00618A
+Design2019.data-story.Interactive Visualisation,,
+Design2019.data-story.Interactive Visualisation.Generative Art,5,#040404
+Design2019.data-story.Interactive Visualisation.animation,4,#CA212F
+Design2019.data-story.Dashboard Visualisation,5,#00A0D2
