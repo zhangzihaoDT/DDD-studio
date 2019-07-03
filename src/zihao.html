@@ -95,7 +95,7 @@
       return d.id.substring(0, d.id.lastIndexOf("."));
     });
 
-  d3.csv("data/DESIGN2019.csv", row, function(error, data) {
+  d3.csv("../data/DESIGN2019.csv", row, function(error, data) {
     if (error) throw error;
 
     var root = stratify(data);
